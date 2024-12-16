@@ -79,4 +79,4 @@ This is the capstone project to create IG homepage
 4. Kehinde Imani 055 (GitHub username: AskKenImani)
 5. Agboola Toheeb 118 (GitHub username : toyib001)
 6. Raheem Moshood 096 (GitHub username : MoshodARr)
->>>>>>> 99c3c42e6154d3d8fa9b97bccd874d8124bcca84
+7. Taiwo Agbaje 120 (GitHub username: Gbjayexperty)
